@@ -11,7 +11,7 @@ Description: Visualization of Panel Data using the Socioeconomic Panel (SOEP) in
 
 Keywords: graph, SOEP, Panel Data, income, life satisfaction
 
-Author: Clara Hoffmann, Antonia Scherz, Veronika Belcheva
+Author: Clara Hoffmann
 
 Submitted: Sun, August 12 2018
 
